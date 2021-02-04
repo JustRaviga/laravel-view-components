@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-view-components",
+    "name": "justraviga/laravel-view-components",
     "description": "A better way to connect data with view rendering in Laravel",
     "keywords": [
         "spatie",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.18|^7.0"
+        "illuminate/support": "^6.18|^7.0|^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0|^5.0",
